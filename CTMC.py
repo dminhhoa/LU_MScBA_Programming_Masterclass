@@ -3,6 +3,7 @@
 Created on Thu May 19 11:52:10 2022
 
 @author: rhodesle
+2nd commit: Hazel
 """
 
 import numpy as np
